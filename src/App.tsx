@@ -12,7 +12,7 @@ export default function App() {
 	        <div className="content">
 		        <div className="score">{score}</div>
                 <div className="bearer" onClick={handleBearer}>
-	                <img src="./bearer.png" alt=""/>
+	                <img src="./bear.png" alt=""/>
                 </div>
 	        </div>
         </div>
